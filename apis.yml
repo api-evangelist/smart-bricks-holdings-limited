@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/smart-bricks-holdings-limited.png
-name: Smart Bricks Holdings Limited
+name: Smart Bricks
 description: Smart Bricks Holdings Limited operates Smart Bricks, an AI-powered real
   estate investment platform that uses proprietary foundational models and autonomous
   agents to help retail and institutional investors discover, underwrite, execute,
@@ -44,7 +44,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - PropTech
 - Artificial Intelligence
 - Investment
@@ -58,6 +58,7 @@ tags_raw:
 - Investment
 - Autonomous Agents
 - FinTech
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -82,3 +83,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Smart Bricks Holdings Limited
